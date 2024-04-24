@@ -1,1 +1,2 @@
 # PRODIGY_WD__02
+ a stopwatch with start/stop and lap/reset functionality. It displays the elapsed time in hours, minutes, seconds, and centiseconds. When the user clicks "Start", the stopwatch starts counting, and the button changes to "Stop". When the user clicks "Stop", the stopwatch stops counting. The "Lap" button records the current lap time, and the "Reset" button resets the stopwatch and lap list.
